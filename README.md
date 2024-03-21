@@ -1,0 +1,1 @@
+# hsk-mf-compat-patch
