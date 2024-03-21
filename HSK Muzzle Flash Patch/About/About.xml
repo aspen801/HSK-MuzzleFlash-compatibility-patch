@@ -3,7 +3,7 @@
 	<name>Muzzle Flash HSK Patch</name>
 	<author>aspen801</author>
 	<packageId>aspen801.mfpatch.hsk</packageId>
-	<description>Added compatibility with Muzzle Flash in HSK.</description>
+	<description>Added compatibility with Muzzle Flash mod in HSK.</description>
 	<supportedVersions>
 		<li>1.4</li>
 	</supportedVersions>
