@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Muzzle Flash HSK Patch</name>
+	<author>aspen801</author>
+	<packageId>aspen801.mfpatch.hsk</packageId>
+	<description>Added compatibility with Muzzle Flash in HSK.</description>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+    <modDependencies>
+        <li>
+			<packageId>IssacZhuang.MuzzleFlash</packageId>
+			<displayName>Muzzle Flash</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2917732219</steamWorkshopUrl>
+		</li>
+    </modDependencies>
+	<loadAfter>
+        <li>IssacZhuang.MuzzleFlash</li>
+	</loadAfter>
+</ModMetaData>
